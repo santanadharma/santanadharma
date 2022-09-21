@@ -1,0 +1,16 @@
+name: santanadharma
+
+packages:
+  - packages/**
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
+
+scripts:
+  analyze:
+    exec: dart analyze .
+  kriya:
+    exec: flutter run -d chrome
+    select-package:
+      flutter: true

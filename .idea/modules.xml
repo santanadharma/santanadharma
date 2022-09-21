@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/kriya/melos_kriya.iml" filepath="$PROJECT_DIR$/packages/kriya/melos_kriya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/sanskrit_core/melos_sanskrit_core.iml" filepath="$PROJECT_DIR$/packages/sanskrit_core/melos_sanskrit_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_santanadharma.iml" filepath="$PROJECT_DIR$/melos_santanadharma.iml" />
+    </modules>
+  </component>
+</project>
